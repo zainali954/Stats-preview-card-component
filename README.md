@@ -27,8 +27,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/zainali954/Profile-card-component](https://github.com/zainali954/Profile-card-component)
-- Live Site URL: [https://zainali954.github.io/Profile-card-component/](https://zainali954.github.io/Profile-card-component/)
+- Solution URL: [https://github.com/zainali954/Stats-preview-card-component](https://github.com/zainali954/Stats-preview-card-component)
+- Live Site URL: [https://zainali954.github.io/Stats-preview-card-component/](https://zainali954.github.io/Stats-preview-card-component/)
 
 ## My process
 
@@ -43,5 +43,5 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Author
 
-- Website - [zainali954.github.io](https://zainali954.github.io/Profile-card-component/)
+- Website - [zainali954.github.io](https://zainali954.github.io/Stats-preview-card-component/)
 - Frontend Mentor - [@zainali954](https://www.frontendmentor.io/profile/zainali954)

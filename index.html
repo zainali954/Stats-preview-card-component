@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+  <html lang="en">
+
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+      <title>Frontend Mentor | Stats preview card component</title>
+      <link rel="stylesheet" href="style.css">
+
+    </head>
+
+    <body>
+      <main class="container">
+        <section class="left-section">
+          <div>
+            <h1 class="main-heading">
+              Get <span class="head-style">insights</span> that help your business grow.
+            </h1>
+            <p class="main-paragraph">
+              Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.
+            </p>
+          </div>
+          <div class="stats">
+            <div>
+              <h2>10k+</h2>
+              <p>companies</p>
+            </div>
+            <div>
+              <h2>314</h2>
+              <p>templates</p>
+            </div>
+            <div>
+              <h2>12m+</h2>
+              <p>queries</p>
+            </div>
+          </div>
+        </section>
+        <section class="right-section">
+          <picture>
+            <!-- Display this image for screens with a maximum width of 375 pixels or less -->
+            <source media="(max-width: 375px)" srcset="./images/image-header-mobile.jpg">
+        
+            <!-- Display this image for screens with a maximum width of 1440 pixels or less -->
+            <source media="(max-width: 1440px)" srcset="./images/image-header-desktop.jpg">
+        
+            <!-- Fallback image for browsers that do not support the picture element -->
+            <img src="./images/image-header-desktop.jpg" alt="Default Image">
+          </picture>
+        </section>
+      </main>
+
+
+      <div class="attribution">
+        Challenge by <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62" target="_blank">Frontend Mentor</a>. 
+        Coded by <a href="https://www.frontendmentor.io/profile/zainali954">Zain Ali</a>.
+      </div>
+    </body>
+
+  </html>
